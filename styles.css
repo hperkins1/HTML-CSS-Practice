@@ -1,0 +1,36 @@
+h1 {
+  color: white;
+  text-align: center;
+  font-size: 40pt;
+  background-color: indigo;
+}
+
+#intro {
+  background-color: gray;
+  color: white;
+  font-size: 18pt;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-size: 30pt;
+  background-color: darkblue;
+}
+
+h4 {
+  color: white;
+  text-align: center;
+  font-size: 22pt;
+  background-color: forestgreen;
+}
+
+.techLi {
+  color: green;
+}
+
+.techTitle {
+  font-size: 14pt;
+  color: lightgreen;
+  background-color: black;
+}
