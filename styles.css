@@ -2,12 +2,12 @@ h1 {
   color: white;
   text-align: center;
   font-size: 40pt;
-  background-color: indigo;
+  background-color: rgb(31, 106, 68);
 }
 
 #intro {
-  background-color: gray;
-  color: white;
+  background-color: rgba(147, 249, 46, 0.3);
+  color: rgb(31, 106, 68);
   font-size: 18pt;
 }
 
@@ -15,22 +15,22 @@ h2 {
   color: white;
   text-align: center;
   font-size: 30pt;
-  background-color: darkblue;
+  background-color: rgb(114, 170, 115);
 }
 
 h4 {
-  color: white;
+  color: rgb(75, 109, 143);
   text-align: center;
   font-size: 22pt;
-  background-color: forestgreen;
+  background-color: rgba(21, 21, 141, 0.2);
 }
 
 .techLi {
-  color: green;
+  color: rgb(75, 109, 143);
 }
 
 .techTitle {
   font-size: 14pt;
-  color: lightgreen;
-  background-color: black;
+  color: white;
+  background-color: rgb(75, 109, 143);
 }
