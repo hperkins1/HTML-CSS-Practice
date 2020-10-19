@@ -1,0 +1,42 @@
+h1 {
+  font-size: 48pt;
+  text-align: center;
+  color: whitesmoke;
+  background-color: black;
+  font-family: "Arial Black", Gadget, sans-serif;
+}
+
+h2 {
+  font-size: 40pt;
+  text-align: left;
+  text-indent: 50px;
+  color: white;
+  background-color: black;
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  font-size: 18pt;
+  text-align: left;
+  text-indent: 50px;
+  color: white;
+  background-color: black; 
+  font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;  
+}
+
+body {
+  background-image: url('https://images.pexels.com/photos/3389817/pexels-photo-3389817.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+#aboutUsDiv {
+  background-image: url('https://images.pexels.com/photos/356830/pexels-photo-356830.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+}
+
+#recipesDiv {
+  background-image: url('https://images.pexels.com/photos/15964/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+  background-size: cover;
+}
